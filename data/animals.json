@@ -108,6 +108,34 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jeff",
+      "species": "Frog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Mary",
+      "species": "lamb",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Roger",
+      "species": "sloth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
